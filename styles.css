@@ -14,7 +14,7 @@ body {
   height: 100%;
 }
 
-.fixed-text {
+.fixed-text1 {
   position: absolute;
   top: 10%;
   left: 50%;
@@ -23,6 +23,23 @@ body {
   color: Navy;
 }
 
+.fixed-text2 {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 80px;
+  color: Navy;
+}
+
+.fixed-text3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 80px;
+  color: Navy;
+}
 .scrolling-text {
   position: absolute;
   top: 18%;
