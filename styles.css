@@ -28,7 +28,7 @@ body {
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 80px;
+  font-size: 50px;
   color: Navy;
 }
 
@@ -37,7 +37,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 80px;
+  font-size: 50px;
   color: Navy;
 }
 .scrolling-text {
