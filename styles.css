@@ -5,7 +5,7 @@ body {
 }
 
 .background-image {
-  background-image: url('https://images2.alphacoders.com/530/530093.jpg'); 
+  background-image: url('path/to/your/image.jpg'); /* Replace 'path/to/your/image.jpg' with your file path */
   background-size: cover;
   background-position: center;
   position: fixed;
@@ -17,15 +17,19 @@ body {
 
 .fixed-text {
   position: absolute;
-  top: 15%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: Navy;
+  color: white;
   text-align: center;
 }
 
 .line {
   font-size: 80px;
   margin: 10px 0;
-  line-height: 1.5;
+  line-height: 1.5; /* Adjust line height for better readability */
+}
+
+.designation {
+  font-size: 60px; /* Adjust font size for the designations */
 }
