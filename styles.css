@@ -25,7 +25,7 @@ body {
 }
 
 .line {
-  font-size: 80px;
+  font-size: 60px;
   margin: 10px 0;
   line-height: 1.5; /* Adjust line height for better readability */
 }
