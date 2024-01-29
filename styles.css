@@ -5,7 +5,7 @@ body {
 }
 
 .background-image {
-  background-image: url('path/to/your/image.jpg'); /* Replace 'path/to/your/image.jpg' with your file path */
+  background-image: url('https://images2.alphacoders.com/530/530093.jpg'); /* Replace 'path/to/your/image.jpg' with your file path */
   background-size: cover;
   background-position: center;
   position: fixed;
@@ -20,7 +20,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: Navy;
   text-align: center;
 }
 
